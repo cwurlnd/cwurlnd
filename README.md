@@ -17,7 +17,7 @@
 
 ### My Skills:
 
-<<table>
+<table>
     <tr>
         <td>Programming/Backend</td>
         <td>
