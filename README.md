@@ -15,6 +15,8 @@
 <a href="https://www.linkedin.com/in/coreywurl/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="mailto:cwurl18@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
+<br/>
+
 ### My Skills:
 
 <table>
@@ -69,7 +71,7 @@
 
 <br/>
 
-
+### Check out my projects! 
 
 <!--
 **cwurlnd/cwurlnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
