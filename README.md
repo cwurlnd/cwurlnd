@@ -12,7 +12,7 @@
 ### Contact me:
 
 <a href="https://twitter.com/ccwurl"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
-<a href="https://www.linkedin.com/in/coreywurl/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/corey-wurl/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="mailto:cwurl18@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
 
 <br/>
