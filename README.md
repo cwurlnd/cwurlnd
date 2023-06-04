@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Corey Wurl
 
-### Computer Science Graduate from the University of Notre Dame ☘️
+### Recent Computer Science Graduate from the University of Notre Dame ☘️
 
 - 🔭 I’m currently working on: __Machine Learning Model for Horse Racing__ 
 - 🌱 I’m currently learning: __Spring Boot, C#__
@@ -14,6 +14,13 @@
 <a href="https://twitter.com/ccwurl"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/coreywurl/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
 <a href="mailto:cwurl18@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40"/></a>
+
+### My Skills:
+
+<a href=""><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="40" height="40"/></a>
+<a href=""><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" height="40"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png?20201023095457" width="40" height="40"/></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40"/></a>
 
 <!--
 **cwurlnd/cwurlnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
